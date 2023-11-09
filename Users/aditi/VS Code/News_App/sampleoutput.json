@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 34,
+    "articles": [
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Rebecca Elliott, Dave Michaels",
+            "title": "DOJ, SEC Investigate Tesla Over Secret Glass House Project - WSJ - The Wall Street Journal",
+            "description": "Federal prosecutors are seeking information about benefits paid to Elon Musk",
+            "url": "https://www.wsj.com/business/autos/tesla-elon-musk-glass-house-doj-sec-investigation-c723166b",
+            "urlToImage": "https://images.wsj.net/im-844743/social",
+            "publishedAt": "2023-08-30T19:51:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jake Kwon, Jessie Yeung, Alex Stambaugh, Niamh Kennedy, Stephanie Halasz, Sana Noor Haq",
+            "title": "Gabon coup: Military officers place president under house arrest - CNN",
+            "description": "Military officers in Gabon have declared they were seizing power from President Ali Bongo Ondimba in a stunning coup, threatening the family’s half-century rule over the central African nation.",
+            "url": "https://www.cnn.com/2023/08/30/africa/gabon-military-officers-say-power-seized-election-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230830085228-01-gabon-coup-083023.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-30T19:48:00Z",
+            "content": "Military officers in Gabon have declared they were seizing power from President Ali Bongo Ondimba in a stunning coup, threatening the familys half-century rule over the central African nation. \r\nMen … [+7732 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Annika Kim Constantino, Stefan Sykes",
+            "title": "HHS calls for easing restrictions on marijuana, sending cannabis stocks higher - CNBC",
+            "description": "That move could potentially expand the market for cannabis, sending shares of Canopy Growth, Tilray Brands and Cronos Group higher.",
+            "url": "https://www.cnbc.com/2023/08/30/hhs-calls-for-easing-marijuana-restrictions.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106995423-1640971059819-gettyimages-1236440433-clark_weed_step7_33.jpeg?v=1693427304&w=1920&h=1080",
+            "publishedAt": "2023-08-30T19:33:13Z",
+            "content": "The U.S. Department of Health and Human Services has recommended reclassifying marijuana as a lower-risk drug, which would in turn ease restrictions on the budding business, a spokesperson for the Dr… [+2423 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Nouran Salahieh, Holly Yan, Christina Maxouris",
+            "title": "Deadly Hurricane Idalia pummels Florida with record-breaking storm surge and disastrous flooding. Now Georgia and Carolinas are at risk - CNN",
+            "description": "[Breaking news update, published at 5:00 p.m. ET]",
+            "url": "https://www.cnn.com/2023/08/30/weather/florida-hurricane-idalia-wednesday/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230830081414-02-idalia-tarpon-springs-0830.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-30T19:27:00Z",
+            "content": "Editors Note: Affected by the storm? Use CNNs lite site for low bandwidth.\r\n[Breaking news update, published at 5:00 p.m. ET]\r\nIdalia continues to weaken as it moves over southeastern Georgia and is … [+8175 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "Joel Corry",
+            "title": "Agent's Take: Aaron Rodgers, Dak Prescott among 10 QBs entering pivotal season, facing a crossroads in 2023 - CBS Sports",
+            "description": "A lot is riding for each of these quarterbacks this season",
+            "url": "https://www.cbssports.com/nfl/news/agents-take-aaron-rodgers-dak-prescott-among-10-qbs-entering-pivotal-season-facing-a-crossroads-in-2023/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/08/30/f5ad0aa2-e265-484b-8eda-6e2c3949e85f/thumbnail/1200x675/72a961667d432430cd94ec3ed7b4ea6c/dak-prescott-g.jpg",
+            "publishedAt": "2023-08-30T18:56:00Z",
+            "content": "We have already covered both offensive players (excluding quarterbacks) and defensive players to keep an eye on in previous articles. Now, the focus now turns to passers. \r\nEvery season, a different … [+11581 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Tami Luhby",
+            "title": "Millions of salaried workers would get overtime pay under Biden administration proposal - CNN",
+            "description": "Some 3.6 million salaried workers would newly qualify for overtime pay under a proposed rule unveiled by the US Department of Labor on Wednesday. It would guarantee overtime pay of at least time-and-a-half for most salaried workers earning less than $1,059 a …",
+            "url": "https://www.cnn.com/2023/08/30/politics/overtime-pay-salaried-workers-biden/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230830123322-overtime-salaried-workers.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-30T18:52:00Z",
+            "content": "Some 3.6 million salaried workers would newly qualify for overtime pay under a proposed rule unveiled by the US Department of Labor on Wednesday. It would guarantee overtime pay of at least time-and-… [+2794 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tampa Bay Times"
+            },
+            "author": "Max Chesnes, Kirby Wilson",
+            "title": "Here are the first drone photos of Florida's inundated Horseshoe Beach after Idalia - Tampa Bay Times",
+            "description": "Parts of the town were indistinguishable from the small slice of Gulf of Mexico it borders.",
+            "url": "https://www.tampabay.com/hurricane/2023/08/30/here-are-first-drone-photos-floridas-inundated-horseshoe-beach-after-idalia/",
+            "urlToImage": "https://www.tampabay.com/resizer/jwd9gwOaFeSbp2pRb8Pn8XZw1pw=/1200x675/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/TONK2LXMP5GQ3E3MI43N6CCZMY.JPG",
+            "publishedAt": "2023-08-30T18:40:19Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5google.com"
+            },
+            "author": "Ben Schoon",
+            "title": "Fairphone 5 gets 8 years of updates for €699 - 9to5Google",
+            "description": "The Fairphone has been one of Android’s most repairable and longest-supported smartphones, and with the latest generation, the company is...",
+            "url": "https://9to5google.com/2023/08/30/fairphone-5-updates-specs-release-date/",
+            "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/08/fairphone-5-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2023-08-30T18:05:00Z",
+            "content": "The Fairphone has been one of Androids most repairable and longest-supported smartphones, and with the latest generation, the company is once again upping the ante. The Fairphone 5 gets the better pa… [+2364 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Morgan Rimmer",
+            "title": "McConnell appears to freeze while speaking with reporters in Kentucky - CNN",
+            "description": "Senate Minority Leader Mitch McConnell appeared to freeze for about 30 seconds on Wednesday while speaking with reporters after a speech in Covington, Kentucky.",
+            "url": "https://www.cnn.com/2023/08/30/politics/mitch-mcconnell/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230830134328-01-mitch-mcconnell-freeze-083023-screengrab.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-30T17:56:00Z",
+            "content": "Senate Minority Leader Mitch McConnell appeared to freeze for about 30 seconds on Wednesday while speaking with reporters after a speech in Covington, Kentucky.\r\nThe incident is similar to an episode… [+2033 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Lynette Rice",
+            "title": "Shocker! ‘The Great’ Canceled By Hulu After 3 Seasons - Deadline",
+            "description": "EXCLUSIVE: OK, this one hurts. Hulu has canceled fan favorite The Great after three seasons. The series starred Elle Fanning and Nicholas Hoult. Created, written and executive produced by Tony McNa…",
+            "url": "https://deadline.com/2023/08/the-great-canceled-three-seasons-hulu-1235531027/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2023/03/The-Great-S3-First-Look-1-e1687220160302.jpg?w=1024",
+            "publishedAt": "2023-08-30T17:45:00Z",
+            "content": "EXCLUSIVE: OK, this one hurts. Hulu has canceled fan favorite The Great after three seasons.\r\nThe series starred Elle Fanning and Nicholas Hoult. Created, written and executive produced by Tony McNam… [+1622 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Melissa Rudy",
+            "title": "Amid ADHD drug shortage, FDA approves generic version of medication: 'Opportune time' - Fox News",
+            "description": "Amid the shortage of ADHD medications, the FDA has approved several generic versions of Vyvanse for the treatment of attention-deficit/hyperactivity disorder in people 6 years and older.",
+            "url": "https://www.foxnews.com/health/amid-adhd-drug-shortage-fda-approves-generic-version-medication-opportune-time",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/iStock-521206788.jpg",
+            "publishedAt": "2023-08-30T17:41:00Z",
+            "content": "In response to the ongoing shortage of ADHD medications, the U.S. Food and Drug Administration (FDA) has approved several generic versions of Vyvanse (lisdexamfetamine dimesylate) for the treatment o… [+2732 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Prince Harry Crashes Premiere of His Own TV Series ‘Heart of Invictus’ - The Royal Family Channel",
+            "description": "Prince Harry Crashes Premiere of His Own TV Series ‘Heart of Invictus’Prince Harry made a surprise appearance at a premiere for his own TV show in California...",
+            "url": "https://www.youtube.com/watch?v=nsbv2by8eEg",
+            "urlToImage": "https://i.ytimg.com/vi/nsbv2by8eEg/maxresdefault.jpg",
+            "publishedAt": "2023-08-30T17:36:35Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gothamist"
+            },
+            "author": null,
+            "title": "As new COVID variant arrives in NYC, here's how to track the back-to-school surge - Gothamist",
+            "description": null,
+            "url": "https://gothamist.com/news/as-new-covid-variant-arrives-in-nyc-heres-how-to-track-the-back-to-school-surge",
+            "urlToImage": null,
+            "publishedAt": "2023-08-30T17:31:00Z",
+            "content": "{\"en\":{\"access_disabled\":\"Internet Access has been disabled on this device\",\"code\":\"Code\",\"custom_block_list\":\"it is on a custom block list\",\"email\":\"Email\",\"file_ext_blocked\":\"the file extension is … [+3347 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Laura Romero, Katherine Faulders",
+            "title": "Judge says former Trump adviser Peter Navarro has failed to show Trump asserted executive privilege - ABC News",
+            "description": "Peter Navarro will stand trial on criminal contempt of Congress next week.",
+            "url": "https://abcnews.go.com/US/judge-former-trump-adviser-peter-navarro-failed-show/story?id=102733296",
+            "urlToImage": "https://s.abcnews.com/images/US/peter-navarro-gty-bb-230830_1693410828486_hpMain_16x9_992.jpg",
+            "publishedAt": "2023-08-30T17:16:25Z",
+            "content": "The judge overseeing Peter Navarro's contempt of Congress case ruled in a pre-trial hearing Wednesday that the former Trump adviser \"has not met his burden\" to show a formal assertion of executive pr… [+1047 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Hannah Rabinowitz",
+            "title": "Proud Boys sentencing over January 6 riot rescheduled - CNN",
+            "description": "Sentencing hearings for two leaders of the far-right Proud Boys group have been rescheduled after the judge canceled Wednesday’s proceedings because of a medical issue, multiple sources tell CNN.",
+            "url": "https://www.cnn.com/2023/08/30/politics/proud-boys-sentencing/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230830131314-enrique-tarrio-ethan-nordean-split.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-30T17:14:00Z",
+            "content": "Sentencing hearings for two leaders of the far-right Proud Boys group have been rescheduled after the judge canceled Wednesdays proceedings because of a medical issue, multiple sources tell CNN.\r\nEnr… [+1008 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Ana Faguy",
+            "title": "Marijuana Smokers Have Higher Levels Of Toxic Metals In Tests, Study Suggests - Forbes",
+            "description": "Compared to non-users, cannabis users had 27% higher levels of lead in their blood, and 21% higher levels in their urine, the study found.",
+            "url": "https://www.forbes.com/sites/anafaguy/2023/08/30/marijuana-smokers-have-higher-levels-of-toxic-metals-in-tests-study-suggests/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/64ef6495480397da65b575a3/0x0.jpg?format=jpg&width=1200",
+            "publishedAt": "2023-08-30T17:02:34Z",
+            "content": "Marijuana may be an under-recognized source of metal exposure a study out Wednesday suggested, after researchers detected significantly higher levels of lead and cadmium in the blood and urine of use… [+2815 chars]"
+        },
+        {
+            "source": {
+                "id": "the-jerusalem-post",
+                "name": "The Jerusalem Post"
+            },
+            "author": "By  JERUSALEM POST STAFF",
+            "title": "Rare 'blue supermoon' rises over Israel, won't return until 2037 - The Jerusalem Post",
+            "description": "The blue supermoon is the brightest and the largest full moon of 2023.",
+            "url": "https://www.jpost.com/science/the-natural-world/article-756913",
+            "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/549832",
+            "publishedAt": "2023-08-30T16:36:00Z",
+            "content": "A “blue supermoon” rose in the night sky over Israe land much of the world on Wednesday, August 30.\r\nThe expression, “once in a blue moon” has relevance in a real lunar phenomenon. Moreover, as the p… [+1612 chars]"
+        },
+        {
+            "source": {
+                "id": "nfl-news",
+                "name": "NFL News"
+            },
+            "author": null,
+            "title": "NFL practice squad tracker: Team-by-team roster signings ahead of 2023 season - NFL.com",
+            "description": "NFL.com is keeping an eye on the players signed to every team's practice squad ahead of the 2023 regular season.",
+            "url": "https://www.nfl.com/news/nfl-practice-squad-tracker-team-by-team-roster-signings-ahead-of-2023-season",
+            "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/u5awkgtyuvttwt94wdk7",
+            "publishedAt": "2023-08-30T16:27:00Z",
+            "content": "The Patriots' initial 53-man roster included a single quarterback, Mac Jones, with Bailey Zappe, Malik Cunningham and Trace McSorley all being cut. It's an odd situation, but the Patriots having one … [+46 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": null
+            },
+            "author": null,
+            "title": null,
+            "description": null,
+            "url": null,
+            "urlToImage": null,
+            "publishedAt": null,
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Police"
+            },
+            "author": "Will Sattelberg",
+            "title": "Google Pixel 8 launch date set for October 4 - Android Police",
+            "description": "Just one day after Apple announced its own event",
+            "url": "https://www.androidpolice.com/made-by-google-2023-announcement-b/",
+            "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/10/google-store-g-sign.jpg",
+            "publishedAt": "2023-08-30T16:16:00Z",
+            "content": "Summary\r\n<ul><li> Google will host its next Made by Google event on October 4th in New York City, where the company will likely unveil the Pixel 8 series and a second-gen Pixel Watch. </li><li> Earli… [+1405 chars]"
+        }
+    ]
+}
